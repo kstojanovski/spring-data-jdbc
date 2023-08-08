@@ -1,7 +1,7 @@
 # Spring Data JDBC
 ## Introduction
 This repositry contains knowledge information, links to articles and tutorial videos about Spring Data JDBC.
-## Based on:
+## Based on
 * [The New Kid on the Block: Spring Data JDBC - Jens Schauder](https://www.youtube.com/watch?v=AnIouYdwxo0)
 * [Spring Data JDBC: Beyond the Obvious - SpringDeveloper, Jens Schauder](https://www.youtube.com/watch?v=SJlKBkZ2yAU)
 * [Spring Data JDBC - Spring Academy, Maciej Walkowiak](https://www.youtube.com/watch?v=EaHlancPA14&list=PLogZqOaRQiHk0gtuAbp2j31QYqoXBIU5m)
